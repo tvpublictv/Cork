@@ -1,4 +1,4 @@
-const CSV_URL = `https://docs.google.com/spreadsheets/d/1UYf9MzEORDG36Lls7dhqCOOtXscJh2_UBQ4IfTPooNM/export?format=csv&gid=0`;
+const CSV_URL = `https://docs.google.com/spreadsheets/d/e/2PACX-1vQLHxERJEc6w0HAkLImlyrNV-wvG_4wsMhhWHWsjlCe6X7evH9Z9xmpTV1TB8uhp6Yj4j6T9St9JxaM/pubhtml`;
 
 function splitCSVLine(line) {
     const result = [];
