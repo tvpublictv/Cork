@@ -2,7 +2,7 @@ import { fetchGalleryData } from './api.js';
 import { clearGridHTML, appendGridItems, updateGridClasses, updateScrollTrigger, setupInfiniteScroll, createGridItem, setGridPadding, BATCH_SIZE } from './gallery.js';
 import { UI, ICONS, createActiveFilterTag, createButtonHTML, updateMainButtonState, closeFilterMenu, initProjectSearch, initFilterUI, showError, hideError, getAdjustedPadding, setupUIEvents, updateStripActiveStates } from './ui.js';
 
-console.log("Initializing Architecture Dex v0.9.09...");
+console.log("Initializing Cork...");
 
 // --- STATE ---
 let galleryItems = [];
